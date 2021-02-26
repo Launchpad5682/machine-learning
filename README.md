@@ -1,10 +1,12 @@
 ## Machine Learning 
 
 ## Table of contents
-* [General Info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Script](#script)
+- [Machine Learning](#machine-learning)
+- [Table of contents](#table-of-contents)
+- [General Info](#general-info)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Script](#script)
 
 ## General Info
 This repository includes code of various machine learning models with their explanation.
